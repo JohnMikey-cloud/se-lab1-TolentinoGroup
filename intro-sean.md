@@ -1,0 +1,1 @@
+As a BSIT student, my primary role involves developing responsive user interfaces and writing structured code for web applications. I focus on implementing key features, managing software requirements, and collaborating with team members using Git for version control. Through continuous testing and debugging, I aim to build reliable and user-friendly software solutions.
